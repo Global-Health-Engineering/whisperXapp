@@ -1,0 +1,6 @@
+.locks
+__pycache__
+.DS_Store
+models
+.vscode
+.ipynb_checkpoints

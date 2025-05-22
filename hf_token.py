@@ -1,0 +1,1 @@
+hf_token = "YOUR_HUGGINGFACE_TOKEN_HERE"
